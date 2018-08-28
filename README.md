@@ -1,4 +1,5 @@
 # promotion
 
 README pour la formation
-Auteur : Roger
+Auteur  : Roger
+Date    : Aout 2018
